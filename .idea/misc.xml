@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Kotlin Projects/Project 1/app/src/main/res/layout/aactivity_main.xml" value="0.19519927536231885" />
+        <entry key="..\:/Kotlin Projects/Project 1/app/src/main/res/layout/account_test_activity.xml" value="0.19519927536231885" />
+        <entry key="..\:/Kotlin Projects/Project 1/app/src/main/res/layout/account_test_fragment.xml" value="0.19519927536231885" />
+        <entry key="..\:/Kotlin Projects/Project 1/app/src/main/res/layout/activity_counter.xml" value="0.19519927536231885" />
+        <entry key="..\:/Kotlin Projects/Project 1/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Kotlin Projects/Project 1/app/src/main/res/layout/counter_activity.xml" value="0.19519927536231885" />
+        <entry key="..\:/Kotlin Projects/Project 1/app/src/main/res/layout/counter_fragment.xml" value="0.19519927536231885" />
+        <entry key="..\:/Kotlin Projects/Project 1/app/src/main/res/layout/fragment_first.xml" value="0.19519927536231885" />
+        <entry key="..\:/Kotlin Projects/Project 1/app/src/main/res/layout/fragment_second.xml" value="0.19519927536231885" />
+        <entry key="..\:/Kotlin Projects/Project 1/app/src/main/res/layout/weather_activity.xml" value="0.1707193515704154" />
+        <entry key="..\:/Kotlin Projects/Project 1/app/src/main/res/layout/weather_fragment.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
